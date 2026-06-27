@@ -1,6 +1,8 @@
 # splitwise
 Hybrid stepwise regression with interpretable single-split dummy encoding and optional iterative selection Use splitwise With (in) R Software
 
+https://www.youtube.com/watch?v=MVci-CLyIG4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
